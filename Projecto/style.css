@@ -1,0 +1,34 @@
+#Info {
+  text-align: center; /*Centrar*/
+  font-size: 3rem; /*Fuente*/
+  font-weight: bold;
+}
+#Select {
+  text-align: center; /*Centrar*/
+  font-size: 3rem; /*Fuente*/
+  font-weight: bold;
+  margin-top: 100px;
+  color: #000; /*Color de Fuente*/
+}
+#Botones {
+  text-align: center; /*Centrar*/
+  font-weight: bold;
+}
+h2 {
+  color: #00f; /*Todos los h2 de Color Azul*/
+}
+#Index {
+	background-color: aqua; /*Fondo de Color Celeste*/
+}
+#Chess {
+	background-color: yellow; /*Fondo de Color Amarillo*/
+}
+#Minecraft {
+	background-color: #0f0; /*Fondo de Color Verde*/
+}
+#Tutos {
+	background-color: #f0f;
+}
+#Seccion {
+	color: #f00; /*Secciones de Color Rojo*/
+}
